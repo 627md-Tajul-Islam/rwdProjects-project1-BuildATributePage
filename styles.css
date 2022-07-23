@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  padding-top: 10px;
+}
+#main{
+  background-color:#EEEEEE; 
+  font-family: 'Open Sans', sans-serif;
+}
+#heading_para{
+  text-align: center;
+  height: 150px;
+}
+#heading{
+  padding-top: 50px;
+}
+#image{
+padding-top: 50px;
+background-color: #FFFFFF;
+}
+#caption{
+  text-align: center;
+  font-size: 15px;
+}
+img{
+  align-items: center;
+  width: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
